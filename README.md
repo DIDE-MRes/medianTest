@@ -13,5 +13,6 @@ library(medianTest)
 example(medianTest)
 ```
 
-For enquiries, please use the issue system.
+For enquiries, please use the [issue system](https://github.com/DIDE-MRes/medianTest/issues).
+
 Send requests to join the development team to: thibautjombart@gmail.com
