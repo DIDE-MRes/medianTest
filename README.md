@@ -9,6 +9,7 @@ install_github("DIDE-MRes/medianTest")
 
 To test the features:
 ```r
+library(medianTest)
 example(medianTest)
 ```
 
